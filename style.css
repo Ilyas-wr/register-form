@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;900&family=Nunito+Sans:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;900&family=Open+Sans:wght@300&display=swap');
+
+body {
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    background-color: #FFFFFE;
+}
+
+.log {
+    position: absolute;
+    width: 78px;
+    height: 35px;
+    left: 48px;
+    top: 50px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+ 
+
+    color: #0A2FB6;
+}
+
+
+ p{
+    position: absolute;
+    width: 454px;
+    height: 49px;
+    left: 152px;
+    top: 173px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    color: #B9B8B8;
+}
+
+ h2{
+    color: #000000;
+
+    position: absolute;
+    width: 400px;
+    height: 48px;
+    left: 152px;
+    top: 102px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 48px;
+    
+}
+
+.email {
+    position: absolute;
+    width: 153px;
+    height: 31px;
+    left: 152px;
+    top: 259px;
+
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 156.5%;
+    color: #263A43;
+}
+
+.users {
+    position: absolute;
+    width: 108px;
+    height: 31px;
+    left: 152px;
+    top: 398px;
+
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 156.5%;
+    color: #263A43;
+}
+
+#Email{
+    position: absolute;
+    width: 399px;
+    height: 70px;
+    left: 152px;
+    top: 308px;
+
+
+    background: #FFFFFF;
+    border: 0.6px solid #B1B1B1;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border-bottom-width: 4px;
+    border-bottom-color: #54E28D;
+}
+#userName{
+    position: absolute;
+    width: 399px;
+    height: 70px;
+    left: 152px;
+    top: 447px;
+
+    background: #FFFFFF;
+    border: 0.6px solid #B1B1B1;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+
+.chech{
+    width: 15px;
+    height: 14px;
+    background: #C4C4C4;
+    border-radius: 2px;
+}
+
+.remember{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 50px;   
+    color: #8E8E8E;
+}
+
+.PassWord-type{
+    position: absolute;
+    width: 409px;
+    height: 163px;
+    left: 152px;
+    top: 540px;
+}
+.field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .container{
+    padding-top:50px;
+    margin: auto;
+  }
+.passW{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 70px;
+
+    color: #263A43;
+}
+
+#passWord{
+    width: 399px;
+    height: 70px;
+    background: #FFFFFF;
+    border: 0.6px solid #B1B1B1;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+
+#ellips44{
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    left: 983px;
+    top: 837px;
+
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100%;
+}
+#ellips43{
+    position: absolute;
+    width: 41px;
+    height: 39px;
+    left: 1041px;
+    top: 61px;
+
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100%;
+}
+#ellips42{
+    position: absolute;
+    width: 27px;
+    height: 26px;
+    left: 1367px;
+    top: 44px;
+
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100%;
+}
+#ellips41{
+    position: absolute;
+    width: 27px;
+    height: 26px;
+    left: 1154px;
+    top: 850px;
+
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100%;
+}
+#ellips40{
+    position: absolute;
+    width: 66px;
+    height: 63px;
+    left: 1315px;
+    top: 536px;
+
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100%;
+}
+#ellips39{
+    position: absolute;
+    width: 47px;
+    height: 45px;
+    left: 1324px;
+    top: 877px;
+
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100%;
+}
+
+.umg{
+    position: absolute;
+    width: 653px;
+    height: 739px;
+    left: 714px;
+    top: 80px;
+    z-index: 1;
+    background: #C4C4C4;
+    border-radius: 20px;
+}
+
+.blu{
+    position: absolute;
+    width: 550px;
+    height: 900px;
+    left: 939px;
+    top: 0px;
+    z-index: 0;
+    background: #0A2FB6;
+}
+.leg{
+    position: absolute;
+    height: 25px;
+    left: 270px;
+    top: 152px;
+
+    list-style: none;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 156.5%;
+
+    color: #8E8E8E;
+}
+.form-button-Register{
+    position: absolute;
+    width: 399px;
+    height: 70px;
+    left: 152px;
+    top: 749px;
+
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 156.5%;
+    color: white;
+
+    border: none;
+    background: #0A2FB6;
+    cursor: pointer;
+    border-radius: 6px;
+    opacity: 0.9;
+}
+.strong-green{
+    position: absolute;
+    width: 108px;
+    height: 25px;
+    left: 440px;
+    top: 565px;
+    
+    background: #D4FFE4;
+    border-radius: 18px;
+}
+.strong-green-text{
+    position: absolute;
+    right: 25px;
+}
+.form-button-logIn:hover{
+    opacity: 1;
+}
+@media(max-width: 350px) {
+    .blu{
+width: 100%;
+height: 301px;
+left: 0px;
+    }
+    h2{
+        top: 430px;
+    }
+    p{
+        top: 505px;
+    }
+    .email{
+        top: 600px;
+    }
+    #Email{
+        top: 650px;
+    }
+    .users{
+        top: 740px;
+    }
+    .strong-green{
+        top: 870px;
+    }
+    #userName{
+        top: 790px;
+    }
+    .PassWord-type{
+        top: 840px;
+    }
+    .form-button-Register{
+        top: 1040px;
+    }
+  .log {
+    width: 78px;
+    height: 35px;
+    left: 48px;
+    color: #fff;
+    z-index: 1;
+}
+
+.umg{
+    width: 500px;
+    height: 350px;
+    left: 100px;
+    background: #C4C4C4;
+    border-radius: 20px;
+}
+}
